@@ -7,3 +7,4 @@ This is my promotion fro our customers
 SALES CODE : SALES50
 FREE SHIPPING CODE: F500
 
+Test .git/hooks/pre-coomit
